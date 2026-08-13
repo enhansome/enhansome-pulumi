@@ -1,0 +1,409 @@
+{
+  "items": [
+    {
+      "description": "Get Started - Getting Started with Pulumi.\nDocumentation - Pulumi documentation covering what Pulumi is, how to get started using it, and reference materials for its features and supported cloud providers.\nPulumi Registry - A searchable collection of Pulumi Packages published by Pulumi and our partners.\nBlog - Pulumi blog covering what is new, technical how-tos, customer stories, etc.\nIaC Recommended Practices - Blog series discussing recommended practices related to stack organization, project structure, access control setup, deployments, and refactoring.",
+      "items": [],
+      "title": "Official Resources"
+    },
+    {
+      "description": "The Pulumi Book - A book that shows you how to use Pulumi to build serverless applications of all kinds using TypeScript and Amazon Web Services.",
+      "items": [],
+      "title": "Books"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials and Blog Posts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Provision to Scaleway using Pulumi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-11T08:51:55Z",
+            "owner": "pulumiverse",
+            "repo": "pulumi-scaleway",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A simple Pulumi provider that allows one to run arbitrary commands and treat their outputs as a resource",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-07-05T21:08:48Z",
+            "owner": "brandonkal",
+            "repo": "pulumi-command",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "CommerceTools resource provider for Pulumi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-21T08:28:43Z",
+            "owner": "unplatform-io",
+            "repo": "pulumi-commercetools",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Provision an RKE Kubernetes cluster with Pulumi",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-08-12T16:17:34Z",
+            "owner": "jaxxstorm",
+            "repo": "pulumi-rke",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Providers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Use Pulumi with LocalStack, easy-to-use test/mocking for cloud apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-24T14:37:13Z",
+            "owner": "localstack",
+            "repo": "pulumi-local",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Automate deployments of applications and services to K8s",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-01-01T16:45:20Z",
+            "owner": "vitobotta",
+            "repo": "pulumi-kubernetes-deployments",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Deploy and manage Kubernetes (k3s) cluster with Hetzner Cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-11-12T11:55:24Z",
+            "owner": "spigell",
+            "repo": "pulumi-hcloud-kube-hetzner",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A Cookiecutter template to create a Pulumi provider out of a Terraform Provider using TF Bridge",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T14:47:35Z",
+            "owner": "tmeckel",
+            "repo": "pulumi-tf-provider-cookiecutter",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Deploy react apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-11-10T00:57:40Z",
+            "owner": "nebulis-io",
+            "repo": "pulumi-react-app",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Serverless development tools around the Pulumi Cloud Framework (PCF)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-10-28T15:16:31Z",
+            "owner": "getcoconut",
+            "repo": "coconut",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Create cloud based applications in Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-03-31T13:15:52Z",
+            "owner": "ksrichard",
+            "repo": "gocloud",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Deploy CICD pipelines",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-01-20T10:45:15Z",
+            "owner": "ikovac",
+            "repo": "CICD-pipeline-with-pulumi",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A browser extension that deep-links into Deskypus while browsing Pulumi Cloud",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:09:51Z",
+            "owner": "deskypus",
+            "repo": "deeplink",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Browse through the history of a Pulumi stack with Git commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-06T07:59:49Z",
+            "owner": "bperel",
+            "repo": "pulumi-history-as-git",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Platform for building serverless applications and APIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:18:31Z",
+            "owner": "webiny",
+            "repo": "webiny-js",
+            "stars": 8028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A collection of Pulumi scripts used to automate repetitive deployments of applications and services to Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-01-01T16:45:20Z",
+            "owner": "vitobotta",
+            "repo": "pulumi-kubernetes-deployments",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Node.js and Python implementation of the AWS VPC Best-Practice Guidelines",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-27T18:49:50Z",
+            "owner": "jen20",
+            "repo": "pulumi-aws-vpc",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A collection of NPM libraries for deploying commonly used open source software to Kubernetes using Pulumi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-05-15T20:51:17Z",
+            "owner": "Place1",
+            "repo": "kloudlib",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Library for developing native providers from OpenAPI specs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T00:43:19Z",
+            "owner": "cloudy-sky-software",
+            "repo": "pulschema",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Library for LLM backend deployments using Pulumi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-13T17:10:04Z",
+            "owner": "pulumiverse",
+            "repo": "katwalk",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Infrastructure-as-code framework written in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T15:48:44Z",
+            "owner": "cfeenstra67",
+            "repo": "statey",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Simple extensions and helpers to use with Pulumi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-05-02T14:26:43Z",
+            "owner": "codedevote",
+            "repo": "pulumix",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Infrastructure automation for the Micro platform",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Set of template-driven Pulumi resources used to configure Tabetalt's intrastructure as code.",
+          "children": []
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Office Booker",
+          "description": "Real-time office space booking app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-24T03:17:41Z",
+            "owner": "o2Labs",
+            "repo": "office-booker",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zephyr",
+          "description": "Online store",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-08T21:15:32Z",
+            "owner": "pulumi-zephyr",
+            "repo": "zephyr-app",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Reference Architectures"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Projects using Pulumi"
+    },
+    {
+      "description": "To the extent possible under law, Geoffrey Huntley has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:31:03.297Z",
+    "original_repository": "pulumiverse/awesome-pulumi",
+    "original_repository_sha": "8247f7625be7116e152e16fefd11359c8e0d02ca",
+    "enhanced_repository": "enhansome/enhansome-pulumi",
+    "enhanced_repository_description": null,
+    "title": "Awesome Pulumi with stars"
+  }
+}
