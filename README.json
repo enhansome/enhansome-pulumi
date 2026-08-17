@@ -234,10 +234,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T15:57:53Z",
+            "last_commit": "2026-08-16T10:14:43Z",
             "owner": "webiny",
             "repo": "webiny-js",
-            "stars": 8029
+            "stars": 8030
           }
         },
         {
@@ -399,7 +399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:53:14.765Z",
+    "last_updated": "2026-08-17T05:02:13.556Z",
     "original_repository": "pulumiverse/awesome-pulumi",
     "original_repository_sha": "8247f7625be7116e152e16fefd11359c8e0d02ca",
     "enhanced_repository": "enhansome/enhansome-pulumi",
