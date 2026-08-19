@@ -1,22 +1,7 @@
 {
   "items": [
     {
-      "description": "Get Started - Getting Started with Pulumi.\nDocumentation - Pulumi documentation covering what Pulumi is, how to get started using it, and reference materials for its features and supported cloud providers.\nPulumi Registry - A searchable collection of Pulumi Packages published by Pulumi and our partners.\nBlog - Pulumi blog covering what is new, technical how-tos, customer stories, etc.\nIaC Recommended Practices - Blog series discussing recommended practices related to stack organization, project structure, access control setup, deployments, and refactoring.",
-      "items": [],
-      "title": "Official Resources"
-    },
-    {
-      "description": "The Pulumi Book - A book that shows you how to use Pulumi to build serverless applications of all kinds using TypeScript and Amazon Web Services.",
-      "items": [],
-      "title": "Books"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tutorials and Blog Posts"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -25,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258359120,
             "language": "Makefile",
             "last_commit": "2026-08-11T08:51:55Z",
             "owner": "pulumiverse",
@@ -39,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225754584,
             "language": "Go",
             "last_commit": "2023-07-05T21:08:48Z",
             "owner": "brandonkal",
@@ -53,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 322286433,
             "language": "Python",
             "last_commit": "2024-03-21T08:28:43Z",
             "owner": "unplatform-io",
@@ -67,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 246696956,
             "language": "Go",
             "last_commit": "2021-08-12T16:17:34Z",
             "owner": "jaxxstorm",
@@ -78,7 +67,7 @@
       "title": "Providers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -87,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 358866423,
             "language": "Python",
             "last_commit": "2026-02-24T14:37:13Z",
             "owner": "localstack",
@@ -101,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 250848840,
             "language": "TypeScript",
             "last_commit": "2021-01-01T16:45:20Z",
             "owner": "vitobotta",
@@ -115,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 710920782,
             "language": "Go",
             "last_commit": "2024-11-12T11:55:24Z",
             "owner": "spigell",
@@ -129,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 518593419,
             "language": "Python",
             "last_commit": "2026-07-21T14:47:35Z",
             "owner": "tmeckel",
@@ -143,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241419459,
             "language": "TypeScript",
             "last_commit": "2022-11-10T00:57:40Z",
             "owner": "nebulis-io",
@@ -157,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 397323677,
             "language": "TypeScript",
             "last_commit": "2021-10-28T15:16:31Z",
             "owner": "getcoconut",
@@ -171,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 337319171,
             "language": "Go",
             "last_commit": "2021-03-31T13:15:52Z",
             "owner": "ksrichard",
@@ -185,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 327940808,
             "language": "JavaScript",
             "last_commit": "2021-01-20T10:45:15Z",
             "owner": "ikovac",
@@ -199,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 409454916,
             "language": "TypeScript",
             "last_commit": "2026-08-12T15:09:51Z",
             "owner": "deskypus",
@@ -213,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 845520294,
             "language": "JavaScript",
             "last_commit": "2026-07-06T07:59:49Z",
             "owner": "bperel",
@@ -224,7 +223,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -233,8 +232,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116817549,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T20:57:03Z",
+            "last_commit": "2026-08-19T12:35:04Z",
             "owner": "webiny",
             "repo": "webiny-js",
             "stars": 8031
@@ -247,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 250848840,
             "language": "TypeScript",
             "last_commit": "2021-01-01T16:45:20Z",
             "owner": "vitobotta",
@@ -261,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141085384,
             "language": "Python",
             "last_commit": "2021-08-27T18:49:50Z",
             "owner": "jen20",
@@ -275,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169937303,
             "language": "TypeScript",
             "last_commit": "2023-05-15T20:51:17Z",
             "owner": "Place1",
@@ -289,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 552211507,
             "language": "Go",
             "last_commit": "2026-08-18T15:35:23Z",
             "owner": "cloudy-sky-software",
@@ -303,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 678944340,
             "language": "Python",
             "last_commit": "2023-09-13T17:10:04Z",
             "owner": "pulumiverse",
@@ -317,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265444622,
             "language": "Python",
             "last_commit": "2024-03-20T15:48:44Z",
             "owner": "cfeenstra67",
@@ -331,30 +337,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 228168945,
             "language": "TypeScript",
             "last_commit": "2020-05-02T14:26:43Z",
             "owner": "codedevote",
             "repo": "pulumix",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Infrastructure automation for the Micro platform",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Set of template-driven Pulumi resources used to configure Tabetalt's intrastructure as code.",
-          "children": []
         }
       ],
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -363,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277833928,
             "language": "TypeScript",
             "last_commit": "2023-01-24T03:17:41Z",
             "owner": "o2Labs",
@@ -377,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 601327473,
             "language": "Java",
             "last_commit": "2024-08-08T21:15:32Z",
             "owner": "pulumi-zephyr",
@@ -386,21 +383,12 @@
         }
       ],
       "title": "Reference Architectures"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Projects using Pulumi"
-    },
-    {
-      "description": "To the extent possible under law, Geoffrey Huntley has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:55:31.870Z",
+    "last_updated": "2026-08-19T12:46:49.963Z",
     "original_repository": "pulumiverse/awesome-pulumi",
+    "original_repository_id": 272177956,
     "original_repository_sha": "8247f7625be7116e152e16fefd11359c8e0d02ca",
     "enhanced_repository": "enhansome/enhansome-pulumi",
     "enhanced_repository_description": null,
