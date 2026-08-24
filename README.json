@@ -234,7 +234,7 @@
             "archived": false,
             "id": 116817549,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T20:40:55Z",
+            "last_commit": "2026-08-23T13:13:59Z",
             "owner": "webiny",
             "repo": "webiny-js",
             "stars": 8032
@@ -386,7 +386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:55:20.624Z",
+    "last_updated": "2026-08-24T05:05:53.428Z",
     "original_repository": "pulumiverse/awesome-pulumi",
     "original_repository_id": 272177956,
     "original_repository_sha": "8247f7625be7116e152e16fefd11359c8e0d02ca",
