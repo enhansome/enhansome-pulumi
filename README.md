@@ -149,7 +149,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 ## Libraries
 
-* [`webiny/webiny-js`](https://github.com/webiny/webiny-js) ⭐ 8,032 | 🐛 351 | 🌐 TypeScript | 📅 2026-08-23 - Platform for building serverless applications and APIs
+* [`webiny/webiny-js`](https://github.com/webiny/webiny-js) ⭐ 8,032 | 🐛 351 | 🌐 TypeScript | 📅 2026-08-24 - Platform for building serverless applications and APIs
 * [`vitobotta/pulumi-kubernetes-deployments`](https://github.com/vitobotta/pulumi-kubernetes-deployments) ⭐ 84 | 🐛 0 | 🌐 TypeScript | 📅 2021-01-01 - A collection of Pulumi scripts used to automate repetitive deployments of applications and services to Kubernetes.
 * [`jen20/pulumi-aws-vpc`](https://github.com/jen20/pulumi-aws-vpc) ⭐ 54 | 🐛 7 | 🌐 Python | 📅 2021-08-27 - Node.js and Python implementation of the AWS VPC Best-Practice Guidelines
 * [`place1/kloudlib`](https://github.com/place1/kloudlib) ⭐ 33 | 🐛 6 | 🌐 TypeScript | 📅 2023-05-15 - A collection of NPM libraries for deploying commonly used open source software to Kubernetes using Pulumi.

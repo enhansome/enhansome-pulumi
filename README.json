@@ -4,8 +4,58 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Introduction to Pulumi - Katacoda",
+              "description": "and GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 328770466,
+                "language": "Dockerfile",
+                "last_commit": "2024-03-27T01:00:38Z",
+                "owner": "pulumi",
+                "repo": "introduction-to-pulumi",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Beginner Guides"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Workshop to learn Pulumi on Azure",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 697996592,
+                "language": "PowerShell",
+                "last_commit": "2024-11-08T00:24:15Z",
+                "owner": "TechWatching",
+                "repo": "pulumi-azure-workshop",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Azure"
+        }
+      ],
+      "title": "Tutorials and Blog Posts"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
-          "title": "",
+          "title": "pulumi-scaleway",
           "description": "Provision to Scaleway using Pulumi",
           "children": [],
           "repo_info": {
@@ -20,7 +70,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "pulumi-command",
           "description": "A simple Pulumi provider that allows one to run arbitrary commands and treat their outputs as a resource",
           "children": [],
           "repo_info": {
@@ -35,7 +85,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "pulumi-commercetools",
           "description": "CommerceTools resource provider for Pulumi",
           "children": [],
           "repo_info": {
@@ -50,7 +100,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "pulumi-rke",
           "description": "Provision an RKE Kubernetes cluster with Pulumi",
           "children": [],
           "repo_info": {
@@ -71,7 +121,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "pulumi-local",
           "description": "Use Pulumi with LocalStack, easy-to-use test/mocking for cloud apps",
           "children": [],
           "repo_info": {
@@ -86,7 +136,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "pulumi-kubernetes-deployments",
           "description": "Automate deployments of applications and services to K8s",
           "children": [],
           "repo_info": {
@@ -101,7 +151,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "pulumi-hcloud-kube-hetzner",
           "description": "Deploy and manage Kubernetes (k3s) cluster with Hetzner Cloud.",
           "children": [],
           "repo_info": {
@@ -116,7 +166,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "pulumi-tf-provider-cookiecutter",
           "description": "A Cookiecutter template to create a Pulumi provider out of a Terraform Provider using TF Bridge",
           "children": [],
           "repo_info": {
@@ -131,7 +181,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "pulumi-react-app",
           "description": "Deploy react apps",
           "children": [],
           "repo_info": {
@@ -146,7 +196,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "coconut",
           "description": "Serverless development tools around the Pulumi Cloud Framework (PCF)",
           "children": [],
           "repo_info": {
@@ -161,7 +211,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "gocloud",
           "description": "Create cloud based applications in Go",
           "children": [],
           "repo_info": {
@@ -176,7 +226,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "CICD-pipeline-with-pulumi",
           "description": "Deploy CICD pipelines",
           "children": [],
           "repo_info": {
@@ -191,7 +241,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "deeplink",
           "description": "A browser extension that deep-links into Deskypus while browsing Pulumi Cloud",
           "children": [],
           "repo_info": {
@@ -206,7 +256,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "pulumi-history-as-git",
           "description": "Browse through the history of a Pulumi stack with Git commands.",
           "children": [],
           "repo_info": {
@@ -227,14 +277,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "webiny-js",
           "description": "Platform for building serverless applications and APIs",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 116817549,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T13:13:59Z",
+            "last_commit": "2026-08-24T12:48:10Z",
             "owner": "webiny",
             "repo": "webiny-js",
             "stars": 8032
@@ -242,7 +292,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "pulumi-kubernetes-deployments",
           "description": "A collection of Pulumi scripts used to automate repetitive deployments of applications and services to Kubernetes.",
           "children": [],
           "repo_info": {
@@ -257,7 +307,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "pulumi-aws-vpc",
           "description": "Node.js and Python implementation of the AWS VPC Best-Practice Guidelines",
           "children": [],
           "repo_info": {
@@ -272,7 +322,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "kloudlib",
           "description": "A collection of NPM libraries for deploying commonly used open source software to Kubernetes using Pulumi.",
           "children": [],
           "repo_info": {
@@ -287,7 +337,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "pulschema",
           "description": "Library for developing native providers from OpenAPI specs",
           "children": [],
           "repo_info": {
@@ -302,7 +352,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "katwalk",
           "description": "Library for LLM backend deployments using Pulumi",
           "children": [],
           "repo_info": {
@@ -317,7 +367,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "statey",
           "description": "Infrastructure-as-code framework written in Python",
           "children": [],
           "repo_info": {
@@ -332,7 +382,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "pulumix",
           "description": "Simple extensions and helpers to use with Pulumi",
           "children": [],
           "repo_info": {
@@ -386,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:05:53.428Z",
+    "last_updated": "2026-08-24T14:31:35.974Z",
     "original_repository": "pulumiverse/awesome-pulumi",
     "original_repository_id": 272177956,
     "original_repository_sha": "8247f7625be7116e152e16fefd11359c8e0d02ca",
