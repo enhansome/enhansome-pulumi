@@ -196,7 +196,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 To the extent possible under law, Geoffrey Huntley has waived all copyright and related or neighboring rights to this work.
 
-[^dailydev]: [Daily.dev tech stack](https://github.com/dailydotdev/daily#-tech-stack) ⭐ 20,035 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-12
+[^dailydev]: [Daily.dev tech stack](https://github.com/dailydotdev/daily#-tech-stack) ⭐ 20,036 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-12
 
 [^feedhive]: [Saas template from the creator of FeedHive](https://github.com/SimonHoiberg/saas-template#tech-stack) ⭐ 786 | 🐛 7 | 🌐 TypeScript | 📅 2024-06-21
 
