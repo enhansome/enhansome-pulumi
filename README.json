@@ -173,7 +173,7 @@
             "archived": false,
             "id": 518593419,
             "language": "Python",
-            "last_commit": "2026-07-21T14:47:35Z",
+            "last_commit": "2026-08-25T19:07:04Z",
             "owner": "tmeckel",
             "repo": "pulumi-tf-provider-cookiecutter",
             "stars": 14
@@ -284,10 +284,10 @@
             "archived": false,
             "id": 116817549,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T16:15:30Z",
+            "last_commit": "2026-08-26T04:57:41Z",
             "owner": "webiny",
             "repo": "webiny-js",
-            "stars": 8032
+            "stars": 8031
           }
         },
         {
@@ -344,7 +344,7 @@
             "archived": false,
             "id": 552211507,
             "language": "Go",
-            "last_commit": "2026-08-20T17:37:28Z",
+            "last_commit": "2026-08-25T15:02:13Z",
             "owner": "cloudy-sky-software",
             "repo": "pulschema",
             "stars": 19
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:26:20.117Z",
+    "last_updated": "2026-08-26T04:59:10.848Z",
     "original_repository": "pulumiverse/awesome-pulumi",
     "original_repository_id": 272177956,
     "original_repository_sha": "8247f7625be7116e152e16fefd11359c8e0d02ca",
