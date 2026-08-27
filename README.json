@@ -284,10 +284,10 @@
             "archived": false,
             "id": 116817549,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T04:57:41Z",
+            "last_commit": "2026-08-27T11:18:12Z",
             "owner": "webiny",
             "repo": "webiny-js",
-            "stars": 8031
+            "stars": 8032
           }
         },
         {
@@ -344,7 +344,7 @@
             "archived": false,
             "id": 552211507,
             "language": "Go",
-            "last_commit": "2026-08-25T15:02:13Z",
+            "last_commit": "2026-08-26T17:07:02Z",
             "owner": "cloudy-sky-software",
             "repo": "pulschema",
             "stars": 19
@@ -436,9 +436,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:59:10.848Z",
-    "original_repository": "pulumiverse/awesome-pulumi",
-    "original_repository_id": 272177956,
+    "last_updated": "2026-08-27T11:58:28.436Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 272177956,
+      "language": null,
+      "last_commit": "2026-03-31T14:01:48Z",
+      "owner": "pulumiverse",
+      "repo": "awesome-pulumi",
+      "stars": 264
+    },
     "original_repository_sha": "8247f7625be7116e152e16fefd11359c8e0d02ca",
     "enhanced_repository": "enhansome/enhansome-pulumi",
     "enhanced_repository_description": null,
