@@ -18,7 +18,8 @@
                 "owner": "pulumi",
                 "repo": "introduction-to-pulumi",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T16:42:43.787Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "TechWatching",
                 "repo": "pulumi-azure-workshop",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T16:42:43.787Z"
             }
           ],
           "description": null,
@@ -62,11 +64,12 @@
             "archived": false,
             "id": 258359120,
             "language": "Makefile",
-            "last_commit": "2026-08-20T17:29:53Z",
+            "last_commit": "2026-08-27T23:36:39Z",
             "owner": "pulumiverse",
             "repo": "pulumi-scaleway",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -81,7 +84,8 @@
             "owner": "brandonkal",
             "repo": "pulumi-command",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -96,7 +100,8 @@
             "owner": "unplatform-io",
             "repo": "pulumi-commercetools",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -111,7 +116,8 @@
             "owner": "jaxxstorm",
             "repo": "pulumi-rke",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         }
       ],
       "title": "Providers"
@@ -132,7 +138,8 @@
             "owner": "localstack",
             "repo": "pulumi-local",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -147,7 +154,8 @@
             "owner": "vitobotta",
             "repo": "pulumi-kubernetes-deployments",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -162,7 +170,8 @@
             "owner": "spigell",
             "repo": "pulumi-hcloud-kube-hetzner",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -177,7 +186,8 @@
             "owner": "tmeckel",
             "repo": "pulumi-tf-provider-cookiecutter",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -192,7 +202,8 @@
             "owner": "nebulis-io",
             "repo": "pulumi-react-app",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -207,7 +218,8 @@
             "owner": "getcoconut",
             "repo": "coconut",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -222,7 +234,8 @@
             "owner": "ksrichard",
             "repo": "gocloud",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -237,7 +250,8 @@
             "owner": "ikovac",
             "repo": "CICD-pipeline-with-pulumi",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -252,7 +266,8 @@
             "owner": "deskypus",
             "repo": "deeplink",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -267,7 +282,8 @@
             "owner": "bperel",
             "repo": "pulumi-history-as-git",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         }
       ],
       "title": "Tools"
@@ -284,11 +300,12 @@
             "archived": false,
             "id": 116817549,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:59:22Z",
+            "last_commit": "2026-08-28T11:59:22Z",
             "owner": "webiny",
             "repo": "webiny-js",
             "stars": 8032
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -303,7 +320,8 @@
             "owner": "vitobotta",
             "repo": "pulumi-kubernetes-deployments",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -318,7 +336,8 @@
             "owner": "jen20",
             "repo": "pulumi-aws-vpc",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -333,7 +352,8 @@
             "owner": "Place1",
             "repo": "kloudlib",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -344,11 +364,12 @@
             "archived": false,
             "id": 552211507,
             "language": "Go",
-            "last_commit": "2026-08-26T17:07:02Z",
+            "last_commit": "2026-08-28T15:42:07Z",
             "owner": "cloudy-sky-software",
             "repo": "pulschema",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -363,7 +384,8 @@
             "owner": "pulumiverse",
             "repo": "katwalk",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -378,7 +400,8 @@
             "owner": "cfeenstra67",
             "repo": "statey",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -393,7 +416,8 @@
             "owner": "codedevote",
             "repo": "pulumix",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         }
       ],
       "title": "Libraries"
@@ -414,7 +438,8 @@
             "owner": "o2Labs",
             "repo": "office-booker",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         },
         {
           "node_type": "item",
@@ -429,14 +454,15 @@
             "owner": "pulumi-zephyr",
             "repo": "zephyr-app",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T16:42:43.787Z"
         }
       ],
       "title": "Reference Architectures"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:19:08.535Z",
+    "last_updated": "2026-08-28T16:42:43.787Z",
     "original_repository_info": {
       "archived": false,
       "id": 272177956,
