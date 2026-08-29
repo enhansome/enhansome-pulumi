@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An interactive workshop to get started with Pulumi",
+                "homepage": null,
                 "id": 328770466,
                 "language": "Dockerfile",
+                "license": null,
                 "last_commit": "2024-03-27T01:00:38Z",
+                "open_issues": 4,
                 "owner": "pulumi",
                 "repo": "introduction-to-pulumi",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:43.787Z"
             }
@@ -35,12 +40,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Workshop to get started with Pulumi on Azure",
+                "homepage": null,
                 "id": 697996592,
                 "language": "PowerShell",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2024-11-08T00:24:15Z",
+                "open_issues": 0,
                 "owner": "TechWatching",
                 "repo": "pulumi-azure-workshop",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "iac",
+                  "pulumi",
+                  "pulumi-azure",
+                  "workshop"
+                ]
               },
               "first_seen": "2026-08-28T16:42:43.787Z"
             }
@@ -62,12 +77,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pulumi provider for Scaleway",
+            "homepage": null,
             "id": 258359120,
             "language": "Makefile",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T23:36:39Z",
+            "open_issues": 10,
             "owner": "pulumiverse",
             "repo": "pulumi-scaleway",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "pulumi",
+              "pulumi-provider"
+            ]
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -78,12 +101,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Pulumi resource provider for running commands",
+            "homepage": null,
             "id": 225754584,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-05T21:08:48Z",
+            "open_issues": 3,
             "owner": "brandonkal",
             "repo": "pulumi-command",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "pulumi"
+            ]
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -94,12 +124,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Commercetools Pulumi resource package, bridges to the commercetools Terraform provider",
+            "homepage": null,
             "id": 322286433,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-21T08:28:43Z",
+            "open_issues": 3,
             "owner": "unplatform-io",
             "repo": "pulumi-commercetools",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -110,12 +145,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An RKE pulumi resource package, providing multi language access to RKE",
+            "homepage": null,
             "id": 246696956,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-12T16:17:34Z",
+            "open_issues": 7,
             "owner": "jaxxstorm",
             "repo": "pulumi-rke",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         }
@@ -132,12 +172,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Thin wrapper script to use Pulumi with LocalStack",
+            "homepage": null,
             "id": 358866423,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-24T14:37:13Z",
+            "open_issues": 2,
             "owner": "localstack",
             "repo": "pulumi-local",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -148,12 +193,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 250848840,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2021-01-01T16:45:20Z",
+            "open_issues": 0,
             "owner": "vitobotta",
             "repo": "pulumi-kubernetes-deployments",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -164,12 +214,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! With Pulumi!",
+            "homepage": null,
             "id": 710920782,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-12T11:55:24Z",
+            "open_issues": 22,
             "owner": "spigell",
             "repo": "pulumi-hcloud-kube-hetzner",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -180,12 +235,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Cookiecutter template to create a Pulumi provider out of a Terraform Provider using TF Bridge",
+            "homepage": null,
             "id": 518593419,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T19:07:04Z",
+            "open_issues": 12,
             "owner": "tmeckel",
             "repo": "pulumi-tf-provider-cookiecutter",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "cookiecutter",
+              "cookiecutter-template",
+              "pulumi",
+              "pulumi-provider",
+              "terraform",
+              "terraform-provider"
+            ]
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -196,12 +263,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pulumi component to easily deploy React Apps",
+            "homepage": null,
             "id": 241419459,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2022-11-10T00:57:40Z",
+            "open_issues": 5,
             "owner": "nebulis-io",
             "repo": "pulumi-react-app",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "aws",
+              "cloud",
+              "cloudfront",
+              "hosting-aws",
+              "pulumi",
+              "react",
+              "s3"
+            ]
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -212,12 +292,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolbox for the Pulumi Cloud Framework developer.",
+            "homepage": "https://getcoconut.io",
             "id": 397323677,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-10-28T15:16:31Z",
+            "open_issues": 0,
             "owner": "getcoconut",
             "repo": "coconut",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "cloud",
+              "local-testing",
+              "pulumi",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -228,12 +318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kick-start any cloud native project in your favourite programming language",
+            "homepage": null,
             "id": 337319171,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-31T13:15:52Z",
+            "open_issues": 0,
             "owner": "ksrichard",
             "repo": "gocloud",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -244,12 +339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create, deploy, and manage infrastructure using Pulumi",
+            "homepage": null,
             "id": 327940808,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-01-20T10:45:15Z",
+            "open_issues": 0,
             "owner": "ikovac",
             "repo": "CICD-pipeline-with-pulumi",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -260,12 +360,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A browser extension that enables opening your Pulumi projects from https://app.pulumi.com on your desktop.",
+            "homepage": "https://deskypus.github.io",
             "id": 409454916,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T15:09:51Z",
+            "open_issues": 7,
             "owner": "deskypus",
             "repo": "deeplink",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "deskypus",
+              "pulumi",
+              "webextension"
+            ]
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -276,12 +385,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 845520294,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-06T07:59:49Z",
+            "open_issues": 0,
             "owner": "bperel",
             "repo": "pulumi-history-as-git",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         }
@@ -298,12 +412,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built for developers at large organizations.",
+            "homepage": "https://www.webiny.com",
             "id": 116817549,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T11:59:22Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T19:34:32Z",
+            "open_issues": 350,
             "owner": "webiny",
             "repo": "webiny-js",
-            "stars": 8032
+            "stars": 8032,
+            "topics": [
+              "ai-assisted-development",
+              "aws",
+              "aws-lambda",
+              "cms",
+              "graphql",
+              "headless-cms",
+              "lambda",
+              "lambda-functions",
+              "mcp",
+              "multi-tenant",
+              "nextjs",
+              "nodejs",
+              "open-source",
+              "react",
+              "serverless",
+              "serverless-architectures",
+              "typescript",
+              "white-label"
+            ]
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -314,12 +452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 250848840,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2021-01-01T16:45:20Z",
+            "open_issues": 0,
             "owner": "vitobotta",
             "repo": "pulumi-kubernetes-deployments",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -330,12 +473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Good-Practice AWS VPC Component for Pulumi",
+            "homepage": null,
             "id": 141085384,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2021-08-27T18:49:50Z",
+            "open_issues": 7,
             "owner": "jen20",
             "repo": "pulumi-aws-vpc",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -346,12 +494,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 169937303,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-05-15T20:51:17Z",
+            "open_issues": 6,
             "owner": "Place1",
             "repo": "kloudlib",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -362,12 +515,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pul(umi) schema from OpenAPI specs.",
+            "homepage": "https://buttondown.email/css-blog/archive/create-a-pulumi-provider-from-openapi-spec/",
             "id": 552211507,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:42:07Z",
+            "open_issues": 5,
             "owner": "cloudy-sky-software",
             "repo": "pulschema",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "openapi3",
+              "pulumi"
+            ]
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -378,12 +539,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLM model runway server",
+            "homepage": null,
             "id": 678944340,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-13T17:10:04Z",
+            "open_issues": 3,
             "owner": "pulumiverse",
             "repo": "katwalk",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -394,12 +560,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Statey is an infrastructure-as-code framework written in Python.",
+            "homepage": null,
             "id": 265444622,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-20T15:48:44Z",
+            "open_issues": 1,
             "owner": "cfeenstra67",
             "repo": "statey",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "infrastructure-as-code",
+              "pulumi",
+              "pulumi-aws",
+              "pulumi-python",
+              "python",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -410,12 +588,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some simple extensions and helpers to use with pulumi.",
+            "homepage": null,
             "id": 228168945,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2020-05-02T14:26:43Z",
+            "open_issues": 1,
             "owner": "codedevote",
             "repo": "pulumix",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         }
@@ -432,12 +615,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demand management for offices",
+            "homepage": null,
             "id": 277833928,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-24T03:17:41Z",
+            "open_issues": 35,
             "owner": "o2Labs",
             "repo": "office-booker",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         },
@@ -448,12 +636,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The application used in the Zephyr series of blog posts",
+            "homepage": null,
             "id": 601327473,
             "language": "Java",
+            "license": "MIT-0",
             "last_commit": "2024-08-08T21:15:32Z",
+            "open_issues": 9,
             "owner": "pulumi-zephyr",
             "repo": "zephyr-app",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "golang",
+              "java",
+              "kubernetes",
+              "pulumi",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
         }
@@ -462,15 +661,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:42:43.787Z",
+    "last_updated": "2026-08-29T04:48:48.976Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of resources on Pulumi",
+      "homepage": null,
       "id": 272177956,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-31T14:01:48Z",
+      "open_issues": 4,
       "owner": "pulumiverse",
       "repo": "awesome-pulumi",
-      "stars": 264
+      "stars": 264,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "devops",
+        "infrastructure-as-code",
+        "pulumi"
+      ]
     },
     "original_repository_sha": "8247f7625be7116e152e16fefd11359c8e0d02ca",
     "enhanced_repository": "enhansome/enhansome-pulumi",
