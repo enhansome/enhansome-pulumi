@@ -181,7 +181,7 @@
             "open_issues": 2,
             "owner": "localstack",
             "repo": "pulumi-local",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
@@ -417,8 +417,8 @@
             "id": 116817549,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T09:13:34Z",
-            "open_issues": 350,
+            "last_commit": "2026-09-01T09:20:50Z",
+            "open_issues": 352,
             "owner": "webiny",
             "repo": "webiny-js",
             "stars": 8031,
@@ -520,7 +520,7 @@
             "id": 552211507,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T15:42:07Z",
+            "last_commit": "2026-08-31T17:18:50Z",
             "open_issues": 5,
             "owner": "cloudy-sky-software",
             "repo": "pulschema",
@@ -661,7 +661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T10:56:48.823Z",
+    "last_updated": "2026-09-01T09:28:19.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources on Pulumi",
@@ -673,7 +673,7 @@
       "open_issues": 4,
       "owner": "pulumiverse",
       "repo": "awesome-pulumi",
-      "stars": 264,
+      "stars": 265,
       "topics": [
         "awesome",
         "awesome-list",
