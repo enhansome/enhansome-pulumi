@@ -149,7 +149,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 ## Libraries
 
-* [`webiny/webiny-js`](https://github.com/webiny/webiny-js) ⭐ 8,032 | 🐛 350 | 🌐 TypeScript | 📅 2026-09-04 - Platform for building serverless applications and APIs
+* [`webiny/webiny-js`](https://github.com/webiny/webiny-js) ⭐ 8,032 | 🐛 351 | 🌐 TypeScript | 📅 2026-09-04 - Platform for building serverless applications and APIs
 * [`vitobotta/pulumi-kubernetes-deployments`](https://github.com/vitobotta/pulumi-kubernetes-deployments) ⭐ 84 | 🐛 0 | 🌐 TypeScript | 📅 2021-01-01 - A collection of Pulumi scripts used to automate repetitive deployments of applications and services to Kubernetes.
 * [`jen20/pulumi-aws-vpc`](https://github.com/jen20/pulumi-aws-vpc) ⭐ 54 | 🐛 7 | 🌐 Python | 📅 2021-08-27 - Node.js and Python implementation of the AWS VPC Best-Practice Guidelines
 * [`place1/kloudlib`](https://github.com/place1/kloudlib) ⭐ 33 | 🐛 6 | 🌐 TypeScript | 📅 2023-05-15 - A collection of NPM libraries for deploying commonly used open source software to Kubernetes using Pulumi.
@@ -196,7 +196,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 To the extent possible under law, Geoffrey Huntley has waived all copyright and related or neighboring rights to this work.
 
-[^dailydev]: [Daily.dev tech stack](https://github.com/dailydotdev/daily#-tech-stack) ⭐ 20,055 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-25
+[^dailydev]: [Daily.dev tech stack](https://github.com/dailydotdev/daily#-tech-stack) ⭐ 20,058 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-25
 
 [^feedhive]: [Saas template from the creator of FeedHive](https://github.com/SimonHoiberg/saas-template#tech-stack) ⭐ 786 | 🐛 7 | 🌐 TypeScript | 📅 2024-06-21
 
@@ -204,4 +204,4 @@ To the extent possible under law, Geoffrey Huntley has waived all copyright and 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
