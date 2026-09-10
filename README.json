@@ -417,8 +417,8 @@
             "id": 116817549,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T08:50:52Z",
-            "open_issues": 350,
+            "last_commit": "2026-09-09T21:19:31Z",
+            "open_issues": 352,
             "owner": "webiny",
             "repo": "webiny-js",
             "stars": 8034,
@@ -661,7 +661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T09:00:53.681Z",
+    "last_updated": "2026-09-10T08:59:40.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources on Pulumi",
