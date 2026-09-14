@@ -365,8 +365,8 @@
             "id": 409454916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T05:05:49Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-13T17:23:39Z",
+            "open_issues": 7,
             "owner": "deskypus",
             "repo": "deeplink",
             "stars": 4,
@@ -417,11 +417,11 @@
             "id": 116817549,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T13:11:12Z",
-            "open_issues": 358,
+            "last_commit": "2026-09-14T09:49:08Z",
+            "open_issues": 356,
             "owner": "webiny",
             "repo": "webiny-js",
-            "stars": 8035,
+            "stars": 8036,
             "topics": [
               "ai-assisted-development",
               "aws",
@@ -661,7 +661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T09:36:10.988Z",
+    "last_updated": "2026-09-14T09:57:34.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources on Pulumi",
