@@ -127,7 +127,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 ## Providers
 
-* [`jaxxstorm/pulumi-scaleway`](https://github.com/jaxxstorm/pulumi-scaleway) ⭐ 47 | 🐛 7 | 🌐 Makefile | 📅 2026-09-09 - Provision to Scaleway using Pulumi
+* [`jaxxstorm/pulumi-scaleway`](https://github.com/jaxxstorm/pulumi-scaleway) ⭐ 47 | 🐛 9 | 🌐 Makefile | 📅 2026-09-15 - Provision to Scaleway using Pulumi
 * [`brandonkal/pulumi-command`](https://github.com/brandonkal/pulumi-command) ⭐ 15 | 🐛 3 | 🌐 Go | 📅 2023-07-05 - A simple Pulumi provider that allows one to run arbitrary commands and treat their outputs as a resource
 * [`unplatform-io/pulumi-commercetools`](https://github.com/unplatform-io/pulumi-commercetools) ⭐ 4 | 🐛 3 | 🌐 Python | 📅 2024-03-21 - CommerceTools resource provider for Pulumi
 * [`jaxxstorm/pulumi-rke`](https://github.com/jaxxstorm/pulumi-rke) ⚠️ Archived - Provision an RKE Kubernetes cluster with Pulumi
@@ -196,7 +196,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 To the extent possible under law, Geoffrey Huntley has waived all copyright and related or neighboring rights to this work.
 
-[^dailydev]: [Daily.dev tech stack](https://github.com/dailydotdev/daily#-tech-stack) ⭐ 20,066 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-10
+[^dailydev]: [Daily.dev tech stack](https://github.com/dailydotdev/daily#-tech-stack) ⭐ 20,067 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-14
 
 [^feedhive]: [Saas template from the creator of FeedHive](https://github.com/SimonHoiberg/saas-template#tech-stack) ⭐ 787 | 🐛 7 | 🌐 TypeScript | 📅 2024-06-21
 
@@ -204,4 +204,4 @@ To the extent possible under law, Geoffrey Huntley has waived all copyright and 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
