@@ -82,11 +82,11 @@
             "id": 258359120,
             "language": "Makefile",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T08:25:59Z",
+            "last_commit": "2026-09-16T08:19:20Z",
             "open_issues": 9,
             "owner": "pulumiverse",
             "repo": "pulumi-scaleway",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "pulumi",
               "pulumi-provider"
@@ -417,11 +417,11 @@
             "id": 116817549,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T18:22:01Z",
-            "open_issues": 356,
+            "last_commit": "2026-09-16T09:18:22Z",
+            "open_issues": 355,
             "owner": "webiny",
             "repo": "webiny-js",
-            "stars": 8036,
+            "stars": 8037,
             "topics": [
               "ai-assisted-development",
               "aws",
@@ -520,8 +520,8 @@
             "id": 552211507,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T15:03:37Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-15T17:04:47Z",
+            "open_issues": 6,
             "owner": "cloudy-sky-software",
             "repo": "pulschema",
             "stars": 20,
@@ -661,7 +661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T09:28:53.187Z",
+    "last_updated": "2026-09-16T09:21:18.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources on Pulumi",
@@ -670,7 +670,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-31T14:01:48Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "pulumiverse",
       "repo": "awesome-pulumi",
       "stars": 265,
