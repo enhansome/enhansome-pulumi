@@ -417,8 +417,8 @@
             "id": 116817549,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T09:20:50Z",
-            "open_issues": 362,
+            "last_commit": "2026-09-25T09:07:37Z",
+            "open_issues": 357,
             "owner": "webiny",
             "repo": "webiny-js",
             "stars": 8044,
@@ -520,7 +520,7 @@
             "id": 552211507,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T20:30:52Z",
+            "last_commit": "2026-09-25T04:27:31Z",
             "open_issues": 5,
             "owner": "cloudy-sky-software",
             "repo": "pulschema",
@@ -661,7 +661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T09:22:10.720Z",
+    "last_updated": "2026-09-25T09:39:54.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources on Pulumi",
