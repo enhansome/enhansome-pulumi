@@ -417,11 +417,11 @@
             "id": 116817549,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T10:32:46Z",
-            "open_issues": 365,
+            "last_commit": "2026-10-01T10:55:38Z",
+            "open_issues": 363,
             "owner": "webiny",
             "repo": "webiny-js",
-            "stars": 8049,
+            "stars": 8048,
             "topics": [
               "ai-assisted-development",
               "aws",
@@ -661,7 +661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T10:33:26.214Z",
+    "last_updated": "2026-10-01T11:01:07.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources on Pulumi",
