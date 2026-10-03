@@ -82,7 +82,7 @@
             "id": 258359120,
             "language": "Makefile",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T09:22:53Z",
+            "last_commit": "2026-10-03T08:53:53Z",
             "open_issues": 9,
             "owner": "pulumiverse",
             "repo": "pulumi-scaleway",
@@ -418,7 +418,7 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T23:34:21Z",
-            "open_issues": 372,
+            "open_issues": 371,
             "owner": "webiny",
             "repo": "webiny-js",
             "stars": 8047,
@@ -661,7 +661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:05:51.240Z",
+    "last_updated": "2026-10-03T09:55:30.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources on Pulumi",
