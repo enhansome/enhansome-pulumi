@@ -36,7 +36,7 @@
             {
               "node_type": "item",
               "title": "Workshop to learn Pulumi on Azure",
-              "description": null,
+              "description": "TechWatching/pulumi-azure-workshop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -86,7 +86,7 @@
             "open_issues": 9,
             "owner": "pulumiverse",
             "repo": "pulumi-scaleway",
-            "stars": 48,
+            "stars": 49,
             "topics": [
               "pulumi",
               "pulumi-provider"
@@ -365,8 +365,8 @@
             "id": 409454916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T03:32:11Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-02T14:55:37Z",
+            "open_issues": 7,
             "owner": "deskypus",
             "repo": "deeplink",
             "stars": 4,
@@ -417,11 +417,11 @@
             "id": 116817549,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T10:33:50Z",
-            "open_issues": 364,
+            "last_commit": "2026-10-02T23:34:21Z",
+            "open_issues": 372,
             "owner": "webiny",
             "repo": "webiny-js",
-            "stars": 8048,
+            "stars": 8047,
             "topics": [
               "ai-assisted-development",
               "aws",
@@ -661,7 +661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:34:15.472Z",
+    "last_updated": "2026-10-03T05:05:51.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources on Pulumi",

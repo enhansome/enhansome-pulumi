@@ -2,7 +2,7 @@
 
 > A curated list of resources on [Pulumi](https://www.pulumi.com/).
 > [<img src="./pulumi.svg" align="right" width="100">](https://pulumi.com)
-> Your [contributions](https://github.com/pulumiverse/awesome-pulumi/blob/master/CONTRIBUTING.md) ⭐ 266 | 🐛 5 | 📅 2026-03-31 are welcome!
+> Your [contributions](https://github.com/pulumiverse/awesome-pulumi/blob/master/CONTRIBUTING.md) are welcome!
 
 Pulumi is a multi-language and multi-cloud development platform. It lets you create all aspects of cloud programs using real languages and real code, from infrastructure on up to the application itself. Just write programs and run them, and Pulumi figures out the rest.
 
@@ -127,7 +127,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 ## Providers
 
-* [`jaxxstorm/pulumi-scaleway`](https://github.com/jaxxstorm/pulumi-scaleway) ⭐ 48 | 🐛 9 | 🌐 Makefile | 📅 2026-10-02 - Provision to Scaleway using Pulumi
+* [`jaxxstorm/pulumi-scaleway`](https://github.com/jaxxstorm/pulumi-scaleway) ⭐ 49 | 🐛 9 | 🌐 Makefile | 📅 2026-10-02 - Provision to Scaleway using Pulumi
 * [`brandonkal/pulumi-command`](https://github.com/brandonkal/pulumi-command) ⭐ 15 | 🐛 3 | 🌐 Go | 📅 2023-07-05 - A simple Pulumi provider that allows one to run arbitrary commands and treat their outputs as a resource
 * [`unplatform-io/pulumi-commercetools`](https://github.com/unplatform-io/pulumi-commercetools) ⭐ 4 | 🐛 3 | 🌐 Python | 📅 2024-03-21 - CommerceTools resource provider for Pulumi
 * [`jaxxstorm/pulumi-rke`](https://github.com/jaxxstorm/pulumi-rke) ⚠️ Archived - Provision an RKE Kubernetes cluster with Pulumi
@@ -142,14 +142,14 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 * [`getcoconut/coconut`](https://github.com/getcoconut/coconut) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2021-10-28 - Serverless development tools around the Pulumi Cloud Framework (PCF)
 * [`ksrichard/gocloud`](https://github.com/ksrichard/gocloud) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2021-03-31 - Create cloud based applications in Go
 * [`ikovac/CICD-pipeline-with-pulumi`](https://github.com/ikovac/CICD-pipeline-with-pulumi) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2021-01-20 - Deploy CICD pipelines
-* [`Deskypus Deeplink`](https://github.com/deskypus/deeplink#installation) ⭐ 4 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-02 A browser extension that deep-links into Deskypus while browsing Pulumi Cloud
+* [`Deskypus Deeplink`](https://github.com/deskypus/deeplink#installation) ⭐ 4 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-02 A browser extension that deep-links into Deskypus while browsing Pulumi Cloud
 * [`bperel/pulumi-history-as-git`](https://github.com/bperel/pulumi-history-as-git) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-06 - Browse through the history of a Pulumi stack with Git commands.
 * [`env0`](https://www.env0.com) - Automate your Pulumi workflows with extra control over RBAC, Pull Request Automation, and other helpful features.
 * [`Deskypus`](https://deskypus.cloudysky.software) - Cross-platform desktop app to supercharge local development experience for both self-managed and Pulumi Cloud users
 
 ## Libraries
 
-* [`webiny/webiny-js`](https://github.com/webiny/webiny-js) ⭐ 8,048 | 🐛 364 | 🌐 TypeScript | 📅 2026-10-02 - Platform for building serverless applications and APIs
+* [`webiny/webiny-js`](https://github.com/webiny/webiny-js) ⭐ 8,047 | 🐛 372 | 🌐 TypeScript | 📅 2026-10-02 - Platform for building serverless applications and APIs
 * [`vitobotta/pulumi-kubernetes-deployments`](https://github.com/vitobotta/pulumi-kubernetes-deployments) ⭐ 84 | 🐛 0 | 🌐 TypeScript | 📅 2021-01-01 - A collection of Pulumi scripts used to automate repetitive deployments of applications and services to Kubernetes.
 * [`jen20/pulumi-aws-vpc`](https://github.com/jen20/pulumi-aws-vpc) ⭐ 54 | 🐛 7 | 🌐 Python | 📅 2021-08-27 - Node.js and Python implementation of the AWS VPC Best-Practice Guidelines
 * [`place1/kloudlib`](https://github.com/place1/kloudlib) ⭐ 33 | 🐛 6 | 🌐 TypeScript | 📅 2023-05-15 - A collection of NPM libraries for deploying commonly used open source software to Kubernetes using Pulumi.
@@ -196,7 +196,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 To the extent possible under law, Geoffrey Huntley has waived all copyright and related or neighboring rights to this work.
 
-[^dailydev]: [Daily.dev tech stack](https://github.com/dailydotdev/daily#-tech-stack) ⭐ 20,086 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-01
+[^dailydev]: [Daily.dev tech stack](https://github.com/dailydotdev/daily#-tech-stack) ⭐ 20,088 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-01
 
 [^feedhive]: [Saas template from the creator of FeedHive](https://github.com/SimonHoiberg/saas-template#tech-stack) ⭐ 785 | 🐛 7 | 🌐 TypeScript | 📅 2024-06-21
 
@@ -204,4 +204,4 @@ To the extent possible under law, Geoffrey Huntley has waived all copyright and 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
