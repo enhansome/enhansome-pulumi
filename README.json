@@ -82,7 +82,7 @@
             "id": 258359120,
             "language": "Makefile",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T08:53:53Z",
+            "last_commit": "2026-10-04T09:21:28Z",
             "open_issues": 9,
             "owner": "pulumiverse",
             "repo": "pulumi-scaleway",
@@ -661,7 +661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:55:30.887Z",
+    "last_updated": "2026-10-04T10:38:43.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources on Pulumi",
