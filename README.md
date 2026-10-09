@@ -149,11 +149,11 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 ## Libraries
 
-* [`webiny/webiny-js`](https://github.com/webiny/webiny-js) ⭐ 8,048 | 🐛 367 | 🌐 TypeScript | 📅 2026-10-08 - Platform for building serverless applications and APIs
+* [`webiny/webiny-js`](https://github.com/webiny/webiny-js) ⭐ 8,049 | 🐛 364 | 🌐 TypeScript | 📅 2026-10-09 - Platform for building serverless applications and APIs
 * [`vitobotta/pulumi-kubernetes-deployments`](https://github.com/vitobotta/pulumi-kubernetes-deployments) ⭐ 84 | 🐛 0 | 🌐 TypeScript | 📅 2021-01-01 - A collection of Pulumi scripts used to automate repetitive deployments of applications and services to Kubernetes.
 * [`jen20/pulumi-aws-vpc`](https://github.com/jen20/pulumi-aws-vpc) ⭐ 54 | 🐛 7 | 🌐 Python | 📅 2021-08-27 - Node.js and Python implementation of the AWS VPC Best-Practice Guidelines
 * [`place1/kloudlib`](https://github.com/place1/kloudlib) ⭐ 33 | 🐛 6 | 🌐 TypeScript | 📅 2023-05-15 - A collection of NPM libraries for deploying commonly used open source software to Kubernetes using Pulumi.
-* [`cloudy-sky-software/pulschema`](https://github.com/cloudy-sky-software/pulschema) ⭐ 20 | 🐛 8 | 🌐 Go | 📅 2026-10-07 - Library for developing native providers from OpenAPI specs
+* [`cloudy-sky-software/pulschema`](https://github.com/cloudy-sky-software/pulschema) ⭐ 20 | 🐛 5 | 🌐 Go | 📅 2026-10-09 - Library for developing native providers from OpenAPI specs
 * [`pulumiverse/katwalk`](https://github.com/pulumiverse/katwalk) ⭐ 13 | 🐛 3 | 🌐 Python | 📅 2023-09-13 - Library for LLM backend deployments using Pulumi
 * [`cfeenstra67/statey`](https://github.com/cfeenstra67/statey) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2024-03-20 - Infrastructure-as-code framework written in Python
 * [`codedevote/pulumix`](https://github.com/codedevote/pulumix) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2020-05-02 - Simple extensions and helpers to use with Pulumi
@@ -204,4 +204,4 @@ To the extent possible under law, Geoffrey Huntley has waived all copyright and 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
