@@ -82,7 +82,7 @@
             "id": 258359120,
             "language": "Makefile",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T08:20:03Z",
+            "last_commit": "2026-10-23T08:17:04Z",
             "open_issues": 8,
             "owner": "pulumiverse",
             "repo": "pulumi-scaleway",
@@ -193,7 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "Pulumi (TypeScript) scripts I use to automate repetitive deployments of apps and services to Kubernetes.",
             "homepage": null,
             "id": 250848840,
             "language": "TypeScript",
@@ -255,6 +255,40 @@
             ]
           },
           "first_seen": "2026-08-28T16:42:43.787Z"
+        },
+        {
+          "node_type": "item",
+          "title": "finfocus",
+          "description": "Estimate the cost of a Pulumi stack from output before you deploy, with a GitHub Action that comments the estimate on pull requests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "FinOps CLI for Pulumi — projected costs, actual spend tracking, budget enforcement, and cost optimization for cloud infrastructure",
+            "homepage": "https://rshade.github.io/finfocus/",
+            "id": 1036614688,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-22T12:22:31Z",
+            "open_issues": 34,
+            "owner": "rshade",
+            "repo": "finfocus",
+            "stars": 10,
+            "topics": [
+              "agent-skills",
+              "aws",
+              "cloud-costs",
+              "cloud-infrastructure",
+              "cost-estimation",
+              "cost-optimization",
+              "devops",
+              "finfocus",
+              "finops",
+              "infrastructure-as-code",
+              "pulumi",
+              "skills-sh"
+            ]
+          },
+          "first_seen": "2026-10-23T09:24:44.337Z"
         },
         {
           "node_type": "item",
@@ -417,11 +451,11 @@
             "id": 116817549,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T09:25:12Z",
-            "open_issues": 412,
+            "last_commit": "2026-10-23T09:16:16Z",
+            "open_issues": 414,
             "owner": "webiny",
             "repo": "webiny-js",
-            "stars": 8047,
+            "stars": 8048,
             "topics": [
               "ai-assisted-development",
               "aws",
@@ -452,7 +486,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "Pulumi (TypeScript) scripts I use to automate repetitive deployments of apps and services to Kubernetes.",
             "homepage": null,
             "id": 250848840,
             "language": "TypeScript",
@@ -520,8 +554,8 @@
             "id": 552211507,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T20:04:52Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-23T03:37:35Z",
+            "open_issues": 6,
             "owner": "cloudy-sky-software",
             "repo": "pulschema",
             "stars": 20,
@@ -661,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T09:28:43.559Z",
+    "last_updated": "2026-10-23T09:24:44.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources on Pulumi",
@@ -669,7 +703,7 @@
       "id": 272177956,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-03-31T14:01:48Z",
+      "last_commit": "2026-10-22T12:25:40Z",
       "open_issues": 5,
       "owner": "pulumiverse",
       "repo": "awesome-pulumi",
@@ -682,7 +716,7 @@
         "pulumi"
       ]
     },
-    "original_repository_sha": "8247f7625be7116e152e16fefd11359c8e0d02ca",
+    "original_repository_sha": "58b59f5bf4172b5f380b133b0d39bf507bd127c8",
     "enhanced_repository": "enhansome/enhansome-pulumi",
     "enhanced_repository_description": null,
     "title": "Awesome Pulumi with stars"
