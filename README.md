@@ -127,7 +127,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 ## Providers
 
-* [`jaxxstorm/pulumi-scaleway`](https://github.com/jaxxstorm/pulumi-scaleway) ⭐ 49 | 🐛 8 | 🌐 Makefile | 📅 2026-10-24 - Provision to Scaleway using Pulumi
+* [`jaxxstorm/pulumi-scaleway`](https://github.com/jaxxstorm/pulumi-scaleway) ⭐ 49 | 🐛 6 | 🌐 Makefile | 📅 2026-10-25 - Provision to Scaleway using Pulumi
 * [`brandonkal/pulumi-command`](https://github.com/brandonkal/pulumi-command) ⭐ 15 | 🐛 3 | 🌐 Go | 📅 2023-07-05 - A simple Pulumi provider that allows one to run arbitrary commands and treat their outputs as a resource
 * [`unplatform-io/pulumi-commercetools`](https://github.com/unplatform-io/pulumi-commercetools) ⭐ 4 | 🐛 3 | 🌐 Python | 📅 2024-03-21 - CommerceTools resource provider for Pulumi
 * [`jaxxstorm/pulumi-rke`](https://github.com/jaxxstorm/pulumi-rke) ⚠️ Archived - Provision an RKE Kubernetes cluster with Pulumi
@@ -150,7 +150,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 ## Libraries
 
-* [`webiny/webiny-js`](https://github.com/webiny/webiny-js) ⭐ 8,047 | 🐛 415 | 🌐 TypeScript | 📅 2026-10-23 - Platform for building serverless applications and APIs
+* [`webiny/webiny-js`](https://github.com/webiny/webiny-js) ⭐ 8,048 | 🐛 415 | 🌐 TypeScript | 📅 2026-10-25 - Platform for building serverless applications and APIs
 * [`vitobotta/pulumi-kubernetes-deployments`](https://github.com/vitobotta/pulumi-kubernetes-deployments) ⭐ 84 | 🐛 0 | 🌐 TypeScript | 📅 2021-01-01 - A collection of Pulumi scripts used to automate repetitive deployments of applications and services to Kubernetes.
 * [`jen20/pulumi-aws-vpc`](https://github.com/jen20/pulumi-aws-vpc) ⭐ 54 | 🐛 7 | 🌐 Python | 📅 2021-08-27 - Node.js and Python implementation of the AWS VPC Best-Practice Guidelines
 * [`place1/kloudlib`](https://github.com/place1/kloudlib) ⭐ 33 | 🐛 6 | 🌐 TypeScript | 📅 2023-05-15 - A collection of NPM libraries for deploying commonly used open source software to Kubernetes using Pulumi.
@@ -197,7 +197,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 To the extent possible under law, Geoffrey Huntley has waived all copyright and related or neighboring rights to this work.
 
-[^dailydev]: [Daily.dev tech stack](https://github.com/dailydotdev/daily#-tech-stack) ⭐ 20,112 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-23
+[^dailydev]: [Daily.dev tech stack](https://github.com/dailydotdev/daily#-tech-stack) ⭐ 20,114 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-23
 
 [^feedhive]: [Saas template from the creator of FeedHive](https://github.com/SimonHoiberg/saas-template#tech-stack) ⭐ 783 | 🐛 7 | 🌐 TypeScript | 📅 2024-06-21
 
@@ -205,4 +205,4 @@ To the extent possible under law, Geoffrey Huntley has waived all copyright and 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
