@@ -82,7 +82,7 @@
             "id": 258359120,
             "language": "Makefile",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T09:18:43Z",
+            "last_commit": "2026-11-01T10:04:59Z",
             "open_issues": 10,
             "owner": "pulumiverse",
             "repo": "pulumi-scaleway",
@@ -240,7 +240,7 @@
             "id": 518593419,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-25T19:07:04Z",
+            "last_commit": "2026-10-31T21:49:34Z",
             "open_issues": 12,
             "owner": "tmeckel",
             "repo": "pulumi-tf-provider-cookiecutter",
@@ -268,8 +268,8 @@
             "id": 1036614688,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T08:40:14Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-31T11:21:21Z",
+            "open_issues": 40,
             "owner": "rshade",
             "repo": "finfocus",
             "stars": 11,
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:27:07.154Z",
+    "last_updated": "2026-11-01T11:21:38.120Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources on Pulumi",
