@@ -82,7 +82,7 @@
             "id": 258359120,
             "language": "Makefile",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T10:29:27Z",
+            "last_commit": "2026-11-04T10:26:08Z",
             "open_issues": 13,
             "owner": "pulumiverse",
             "repo": "pulumi-scaleway",
@@ -268,8 +268,8 @@
             "id": 1036614688,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T11:13:40Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-04T12:16:45Z",
+            "open_issues": 32,
             "owner": "rshade",
             "repo": "finfocus",
             "stars": 11,
@@ -451,11 +451,11 @@
             "id": 116817549,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T11:07:15Z",
+            "last_commit": "2026-11-04T12:15:26Z",
             "open_issues": 387,
             "owner": "webiny",
             "repo": "webiny-js",
-            "stars": 8050,
+            "stars": 8049,
             "topics": [
               "ai-assisted-development",
               "aws",
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T12:02:08.928Z",
+    "last_updated": "2026-11-04T12:17:03.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources on Pulumi",
