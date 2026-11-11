@@ -268,8 +268,8 @@
             "id": 1036614688,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T12:43:18Z",
-            "open_issues": 26,
+            "last_commit": "2026-11-10T13:14:53Z",
+            "open_issues": 25,
             "owner": "rshade",
             "repo": "finfocus",
             "stars": 11,
@@ -451,11 +451,11 @@
             "id": 116817549,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T12:39:18Z",
+            "last_commit": "2026-11-11T11:48:58Z",
             "open_issues": 389,
             "owner": "webiny",
             "repo": "webiny-js",
-            "stars": 8049,
+            "stars": 8052,
             "topics": [
               "ai-assisted-development",
               "aws",
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T12:45:33.194Z",
+    "last_updated": "2026-11-11T11:57:01.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources on Pulumi",
