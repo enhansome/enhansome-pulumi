@@ -138,19 +138,19 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 * [`vitobotta/pulumi-kubernetes-deployments`](https://github.com/vitobotta/pulumi-kubernetes-deployments) ⭐ 84 | 🐛 0 | 🌐 TypeScript | 📅 2021-01-01 - Automate deployments of applications and services to K8s
 * [`spigell/pulumi-hcloud-kube-hetzner`](https://github.com/spigell/pulumi-hcloud-kube-hetzner) ⚠️ Archived - Deploy and manage Kubernetes (k3s) cluster with Hetzner Cloud.
 * [`tmeckel/pulumi-tf-provider-cookiecutter`](https://github.com/tmeckel/pulumi-tf-provider-cookiecutter) ⭐ 14 | 🐛 12 | 🌐 Python | 📅 2026-10-31 - A Cookiecutter template to create a Pulumi provider out of a Terraform Provider using TF Bridge
-* [`rshade/finfocus`](https://github.com/rshade/finfocus) ⭐ 11 | 🐛 24 | 🌐 Go | 📅 2026-11-13 - Estimate the cost of a Pulumi stack from `pulumi preview` output before you deploy, with a GitHub Action that comments the estimate on pull requests.
+* [`rshade/finfocus`](https://github.com/rshade/finfocus) ⭐ 11 | 🐛 27 | 🌐 Go | 📅 2026-11-16 - Estimate the cost of a Pulumi stack from `pulumi preview` output before you deploy, with a GitHub Action that comments the estimate on pull requests.
 * [`nebulis-io/pulumi-react-app`](https://github.com/nebulis-io/pulumi-react-app) ⭐ 9 | 🐛 5 | 🌐 TypeScript | 📅 2022-11-10 - Deploy react apps
 * [`getcoconut/coconut`](https://github.com/getcoconut/coconut) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2021-10-28 - Serverless development tools around the Pulumi Cloud Framework (PCF)
 * [`ksrichard/gocloud`](https://github.com/ksrichard/gocloud) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2021-03-31 - Create cloud based applications in Go
 * [`ikovac/CICD-pipeline-with-pulumi`](https://github.com/ikovac/CICD-pipeline-with-pulumi) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2021-01-20 - Deploy CICD pipelines
-* [`Deskypus Deeplink`](https://github.com/deskypus/deeplink#installation) ⭐ 4 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-15 A browser extension that deep-links into Deskypus while browsing Pulumi Cloud
+* [`Deskypus Deeplink`](https://github.com/deskypus/deeplink#installation) ⭐ 4 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-15 A browser extension that deep-links into Deskypus while browsing Pulumi Cloud
 * [`bperel/pulumi-history-as-git`](https://github.com/bperel/pulumi-history-as-git) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-06 - Browse through the history of a Pulumi stack with Git commands.
 * [`env0`](https://www.env0.com) - Automate your Pulumi workflows with extra control over RBAC, Pull Request Automation, and other helpful features.
 * [`Deskypus`](https://deskypus.cloudysky.software) - Cross-platform desktop app to supercharge local development experience for both self-managed and Pulumi Cloud users
 
 ## Libraries
 
-* [`webiny/webiny-js`](https://github.com/webiny/webiny-js) ⭐ 8,053 | 🐛 388 | 🌐 TypeScript | 📅 2026-11-15 - Platform for building serverless applications and APIs
+* [`webiny/webiny-js`](https://github.com/webiny/webiny-js) ⭐ 8,053 | 🐛 390 | 🌐 TypeScript | 📅 2026-11-16 - Platform for building serverless applications and APIs
 * [`vitobotta/pulumi-kubernetes-deployments`](https://github.com/vitobotta/pulumi-kubernetes-deployments) ⭐ 84 | 🐛 0 | 🌐 TypeScript | 📅 2021-01-01 - A collection of Pulumi scripts used to automate repetitive deployments of applications and services to Kubernetes.
 * [`jen20/pulumi-aws-vpc`](https://github.com/jen20/pulumi-aws-vpc) ⭐ 54 | 🐛 7 | 🌐 Python | 📅 2021-08-27 - Node.js and Python implementation of the AWS VPC Best-Practice Guidelines
 * [`place1/kloudlib`](https://github.com/place1/kloudlib) ⭐ 33 | 🐛 6 | 🌐 TypeScript | 📅 2023-05-15 - A collection of NPM libraries for deploying commonly used open source software to Kubernetes using Pulumi.
@@ -197,12 +197,12 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 To the extent possible under law, Geoffrey Huntley has waived all copyright and related or neighboring rights to this work.
 
-[^dailydev]: [Daily.dev tech stack](https://github.com/dailydotdev/daily#-tech-stack) ⭐ 20,139 | 🐛 14 | 🌐 JavaScript | 📅 2026-11-14
+[^dailydev]: [Daily.dev tech stack](https://github.com/dailydotdev/daily#-tech-stack) ⭐ 20,142 | 🐛 13 | 🌐 JavaScript | 📅 2026-11-15
 
-[^feedhive]: [Saas template from the creator of FeedHive](https://github.com/SimonHoiberg/saas-template#tech-stack) ⭐ 783 | 🐛 7 | 🌐 TypeScript | 📅 2024-06-21
+[^feedhive]: [Saas template from the creator of FeedHive](https://github.com/SimonHoiberg/saas-template#tech-stack) ⭐ 782 | 🐛 7 | 🌐 TypeScript | 📅 2024-06-21
 
 [^wraps]: [Wraps uses Pulumi infrastructure stacks](https://wraps.dev/) — "all infrastructure is deployed as open-source Pulumi code you can fork and modify"
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
