@@ -268,7 +268,7 @@
             "id": 1036614688,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T12:50:05Z",
+            "last_commit": "2026-11-16T12:55:54Z",
             "open_issues": 27,
             "owner": "rshade",
             "repo": "finfocus",
@@ -451,11 +451,11 @@
             "id": 116817549,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T12:50:25Z",
-            "open_issues": 390,
+            "last_commit": "2026-11-17T13:34:28Z",
+            "open_issues": 396,
             "owner": "webiny",
             "repo": "webiny-js",
-            "stars": 8053,
+            "stars": 8052,
             "topics": [
               "ai-assisted-development",
               "aws",
@@ -554,7 +554,7 @@
             "id": 552211507,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T22:10:29Z",
+            "last_commit": "2026-11-16T19:32:12Z",
             "open_issues": 3,
             "owner": "cloudy-sky-software",
             "repo": "pulschema",
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T12:54:14.247Z",
+    "last_updated": "2026-11-17T13:36:38.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources on Pulumi",
@@ -707,7 +707,7 @@
       "open_issues": 6,
       "owner": "pulumiverse",
       "repo": "awesome-pulumi",
-      "stars": 264,
+      "stars": 265,
       "topics": [
         "awesome",
         "awesome-list",
